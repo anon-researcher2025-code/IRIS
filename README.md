@@ -1,4 +1,6 @@
-# Interpretable Risk Clustering Intelligence for Survival Analysis (IRIS)
+# IRIS: Interpretable Risk Clustering Intelligence for Survival Analysis
+
+This is the anonymous code for the ICDM 2025 submission "IRIS: Interpretable Risk Clustering Intelligence for Survival Analysis".
 
 ### 📝 Requirements
 
